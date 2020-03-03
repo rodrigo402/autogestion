@@ -1,0 +1,41 @@
+body{
+background-image: url('login.jpg');	
+background-repeat: no-repeat;
+background-size:100%;
+background-attachment:fixed;
+}
+.header {
+    font-family: arial;	
+	font-weight:bold; 
+   	background-image: url('login.jpg');	
+	background-repeat: no-repeat;
+	background-size:100%;
+	background-attachment:fixed;
+	color: #000000;    
+	padding: 100px;
+	font-size: x-large;
+	text-align:center;
+}
+.tablalogin{
+position: absolute;
+font-family: arial;	
+font-weight:bold;
+font-size: 25px;
+background-image: url('tablalogin.jpg');
+opacity:0.8;
+width: 201px;
+height: 200px;
+left: 40%;
+top: 40%;
+}
+.ingresar
+        {
+            width: 200px;
+            height: 40px;
+            text-align: center;
+            font-weight:bold;
+            font-size: 20px;
+			color: #fff;
+            background-color: #428bca;
+            border-color: #357ebd;
+	   }
